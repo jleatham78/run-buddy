@@ -221,7 +221,7 @@ section {
 }
 
 .step-text p {
-    color: #39a6b2
+    color: #39a6b2;
     font-size: 18px;
 }
 
@@ -257,7 +257,7 @@ section {
 .trainer-bio h4 {
     font-weight: lighter;
     font-size: 22px;
-    margin-bottm: 15px;
+    margin-bottom: 15px;
 }
 
 .trainer-bio p {
@@ -352,7 +352,7 @@ section {
     }
 
     header h1 {
-        width 100%;
+        width: 100%;
         text-align: center;
     }
 
